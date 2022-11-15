@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @soehtetlinn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shl
+- 👀 I’m interested in Coding, Hikiing, Biking and Drinking xD
+- 🌱 I’m currently learning Javascript & React.
+- 💞️ I’m looking to collaborate on board.
+- 📫 How to reach me by cb or mail mgsoehtetlinn@gmail.com.
 
 <!---
 soehtetlinn/soehtetlinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
